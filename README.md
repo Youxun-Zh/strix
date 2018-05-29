@@ -1,7 +1,7 @@
 # strix
-Central config project.
+A micro framwork.
 
-Use Raft protocol, its own framework, LevelDB and other related tools to achieve.
+Use uvloop and other related tools to achieve.
 
 INSTALL
 

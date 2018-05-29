@@ -1,0 +1,2 @@
+# strix
+Central config project.

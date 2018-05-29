@@ -1,8 +1,10 @@
 # strix
 Central config project.
-Use Raft protocol, its own framework, LevelDB and other related tools to achieve
+
+Use Raft protocol, its own framework, LevelDB and other related tools to achieve.
 
 INSTALL
+
     git clone
     or
     wget
